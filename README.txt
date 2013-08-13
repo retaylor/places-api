@@ -1,0 +1,1 @@
+This is an easy java client API for the google places API (https://developers.google.com/places/documentation/)
